@@ -1,5 +1,7 @@
 import React from 'react';
-import ContactForm from './ContactForm'; // Assurez-vous que le chemin est correct
+
+import ContactForm from './components/ContactForm/ContactForm';
+
 import logo from './logo.svg';
 import './App.css';
 import Hero from './components/Hero/Hero.js';
