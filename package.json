@@ -1,15 +1,25 @@
 {
+<<<<<<< HEAD
   "name": "mon-projet",
+=======
+  "name": "landing-page",
+>>>>>>> a03db3b8afbe245d64b95e42b5c5b6a87fb46476
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+<<<<<<< HEAD
     "formik": "^2.4.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4",
     "yup": "^1.6.1"
+=======
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5.0.1"
+>>>>>>> a03db3b8afbe245d64b95e42b5c5b6a87fb46476
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,8 +44,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+=======
+>>>>>>> a03db3b8afbe245d64b95e42b5c5b6a87fb46476
   }
 }
