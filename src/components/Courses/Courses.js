@@ -1,18 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import CourseCard from './CourseCard.js';
 
-import {mcourses} from "../../courses.js"
 export default function Courses() {
     const [courses, setCourses] = useState([]);
-
-
-    
-
-
-  
-
-
-
 
 
   return (
